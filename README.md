@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**nelsonng2002/nelsonng2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Nelson</h1>
 <h3 align="center">A GCP platform engineer @ HSBC and aspiring data scientist</h3>
 
