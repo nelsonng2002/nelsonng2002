@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nelson</h1>
-<h3 align="center">A GCP platform engineer @ HSBC and aspiring data scientist</h3>
+<h3 align="center">A GCP Platform Engineer @ HSBC</h3>
 
-- 🔭 I’m currently working on **several data science projects**
+- 🔭 I’m currently working on **data science projects**, improving my skills in data manipulation, data cleaning, data analysis and visualisation and machine learning engineering.
 
 - 📫 How to reach me **ngnelson8@gmail.com**
 
-- 🌱 I’m currently learning **ML and backend development**
+- 🌱 I’m currently learning **ML and Data Engineering**
 
-- 💬 Ask me about **Python, Jenkins, GCP**
+- 💬 Ask me about **Python, Jenkins, GCP and DevOps**
 
-- 📝 I regularly write articles on **https://medium.com/@nelson-ng**
+- 📝 I write articles on **https://medium.com/@nelson-ng**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
