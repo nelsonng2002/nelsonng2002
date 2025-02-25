@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nelson</h1>
-<h3 align="center">A GCP Platform Engineer @ HSBC</h3>
+<h3 align="center">A GCP DevOps Engineer @ HSBC</h3>
 
 - 🔭 I’m currently working on **data science projects**, improving my skills in data manipulation, data cleaning, data analysis and visualisation and machine learning engineering.
 
