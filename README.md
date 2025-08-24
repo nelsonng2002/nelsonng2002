@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nelson</h1>
 <h3 align="center">A GCP DevOps Engineer @ HSBC</h3>
 
-- 🔭 I’m currently working on **data science projects**, improving my skills in data manipulation, data cleaning, data analysis and visualisation and machine learning engineering.
+- 🔭 I’m currently working on **Pomodorokan**, a productivity web application that combines Pomodoro and Kanban - powered by Next.js.
 
 - 📫 How to reach me **ngnelson8@gmail.com**
 
-- 🌱 I’m currently learning **ML and Data Engineering**
+- 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **Python, Jenkins, GCP and DevOps**
+- 💬 Ask me about **Python, Google Cloud, DevOps, CI/CD tools**
 
 - 📝 I write articles on **https://medium.com/@nelson-ng**
 
