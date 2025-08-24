@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nelson</h1>
 <h3 align="center">A GCP DevOps Engineer @ HSBC</h3>
 
-- 🔭 I’m currently working on **Pomodorokan**, a productivity web application that combines Pomodoro and Kanban - powered by Next.js.
+- 🔭 I’m currently working on **Pomodorokan**, a productivity web application that combines Pomodoro and Kanban - powered by Next.js: https://pomodorokan.com 
+
 
 - 📫 How to reach me **ngnelson8@gmail.com**
 
